@@ -7,10 +7,6 @@ An application to create workouts based on your available equipment and the musc
 <br>In the background of our app there is a MongoDB database in which user data and created workouts are stored
 <br>The WorkItOut is provided with a login, so the data of the users can only be seen in a password-protected area.
 
-## Demo:
-
-You can find the first version of that project in the [workout-planner](https://github.com/jukrams/workout-planner) repository.
-
 ## Developed by:
 
 - [Emma Dirscherl](https://github.com/EmmaDir)
