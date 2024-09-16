@@ -1,11 +1,11 @@
 # Capstone Project: Work It Out
 
 An application to create workouts based on your available equipment and the muscles you want to train.
-<br> In the app you can create , delete and edit a workout with several different exercises.
+<br> In the app you can create, delete and edit a workout with several different exercises.
 <br>Exercises can be filtert in order to specific musclegrupps. The app also has a calendar view in
 <br>which it is possible to get an overview of workouts that are finished. 
 <br>In the background of our app there is a MongoDB database in which user data and created workouts are stored
-<br>The WorkItOut is provided with a login, so the data of the users can only be seen in a password-protected area.
+<br>Work It Out is provided with a login, so the data of the users can only be seen in a password-protected area.
 
 ## Developed by:
 
